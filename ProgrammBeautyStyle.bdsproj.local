@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017.09.17 21:42:54.281.pas,C:\Users\Екатерина\Documents\Borland Studio Projects\Unit1.pas=D:\Курсовой проект. 4 Курс\Unit1.pas</Transaction>
+    <Transaction>2017.09.17 21:42:54.281.dfm,C:\Users\Екатерина\Documents\Borland Studio Projects\Unit1.dfm=D:\Курсовой проект. 4 Курс\Unit1.dfm</Transaction>
+    <Transaction>2017.09.17 21:42:56.233.pas,C:\Users\Екатерина\Documents\Borland Studio Projects\Unit2.pas=D:\Курсовой проект. 4 Курс\Unit2.pas</Transaction>
+    <Transaction>2017.09.17 21:42:56.233.dfm,C:\Users\Екатерина\Documents\Borland Studio Projects\Unit2.dfm=D:\Курсовой проект. 4 Курс\Unit2.dfm</Transaction>
+    <Transaction>2017.09.17 21:42:58.029.bdsproj,C:\Users\Екатерина\Documents\Borland Studio Projects\Project1.bdsproj=D:\Курсовой проект. 4 Курс\Project1.bdsproj</Transaction>
+    <Transaction>2017.09.18 13:41:27.275.pas,D:\Курсовой проект. 4 Курс\Программа\Unit4.pas=</Transaction>
+    <Transaction>2017.09.18 13:41:27.319.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit4.dfm=</Transaction>
+    <Transaction>2017.10.03 10:43:23.148.pas,D:\Курсовой проект. 4 Курс\Программа\Unit5.pas=</Transaction>
+    <Transaction>2017.10.03 10:43:23.148.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit5.dfm=</Transaction>
+    <Transaction>2017.10.03 10:44:30.194.pas,D:\Курсовой проект. 4 Курс\Программа\Unit6.pas=D:\Курсовой проект. 4 Курс\Программа\Unit5.pas</Transaction>
+    <Transaction>2017.10.03 10:44:30.194.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit6.dfm=D:\Курсовой проект. 4 Курс\Программа\Unit5.dfm</Transaction>
+    <Transaction>2017.10.03 10:44:30.230.pas,D:\Курсовой проект. 4 Курс\Программа\Unit5.pas=D:\Курсовой проект. 4 Курс\Программа\Unit6.pas</Transaction>
+    <Transaction>2017.10.03 10:44:30.230.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit5.dfm=D:\Курсовой проект. 4 Курс\Программа\Unit6.dfm</Transaction>
+    <Transaction>2017.10.03 10:44:54.435.pas,D:\Курсовой проект. 4 Курс\Программа\Unit6.pas=D:\Курсовой проект. 4 Курс\Программа\Unit5.pas</Transaction>
+    <Transaction>2017.10.03 10:44:54.435.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit6.dfm=D:\Курсовой проект. 4 Курс\Программа\Unit5.dfm</Transaction>
+    <Transaction>2017.10.04 10:18:53.274.pas,D:\Курсовой проект. 4 Курс\Программа\Unit5.pas=</Transaction>
+    <Transaction>2017.10.04 10:18:53.338.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit5.dfm=</Transaction>
+    <Transaction>2017.10.04 11:26:32.502.pas,D:\Курсовой проект. 4 Курс\Программа\Unit6.pas=D:\Курсовой проект. 4 Курс\Программа\Unit5.pas</Transaction>
+    <Transaction>2017.10.04 11:26:32.502.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit6.dfm=D:\Курсовой проект. 4 Курс\Программа\Unit5.dfm</Transaction>
+    <Transaction>2017.10.04 11:26:32.530.pas,D:\Курсовой проект. 4 Курс\Программа\Unit5.pas=D:\Курсовой проект. 4 Курс\Программа\Unit6.pas</Transaction>
+    <Transaction>2017.10.04 11:26:32.530.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit5.dfm=D:\Курсовой проект. 4 Курс\Программа\Unit6.dfm</Transaction>
+    <Transaction>2017.10.04 11:26:54.979.pas,D:\Курсовой проект. 4 Курс\Программа\Unit6.pas=D:\Курсовой проект. 4 Курс\Программа\Unit5.pas</Transaction>
+    <Transaction>2017.10.04 11:26:54.979.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit6.dfm=D:\Курсовой проект. 4 Курс\Программа\Unit5.dfm</Transaction>
+    <Transaction>2017.10.24 18:20:28.686.pas,D:\Курсовой проект. 4 Курс\Программа\Unit1.pas=D:\Курсовой проект. 4 Курс\Программа\BeautyStyle.pas</Transaction>
+    <Transaction>2017.10.24 18:20:28.702.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit1.dfm=D:\Курсовой проект. 4 Курс\Программа\BeautyStyle.dfm</Transaction>
+    <Transaction>2017.10.24 18:20:56.952.pas,D:\Курсовой проект. 4 Курс\Программа\Unit2.pas=D:\Курсовой проект. 4 Курс\Программа\HairHall.pas</Transaction>
+    <Transaction>2017.10.24 18:20:56.952.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit2.dfm=D:\Курсовой проект. 4 Курс\Программа\HairHall.dfm</Transaction>
+    <Transaction>2017.10.24 18:21:07.341.pas,D:\Курсовой проект. 4 Курс\Программа\Unit3.pas=D:\Курсовой проект. 4 Курс\Программа\ClientBase.pas</Transaction>
+    <Transaction>2017.10.24 18:21:07.341.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit3.dfm=D:\Курсовой проект. 4 Курс\Программа\ClientBase.dfm</Transaction>
+    <Transaction>2017.10.24 18:21:28.015.pas,D:\Курсовой проект. 4 Курс\Программа\Unit4.pas=D:\Курсовой проект. 4 Курс\Программа\WomenHaircut.pas</Transaction>
+    <Transaction>2017.10.24 18:21:28.015.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit4.dfm=D:\Курсовой проект. 4 Курс\Программа\WomenHaircut.dfm</Transaction>
+    <Transaction>2017.10.24 18:21:45.724.pas,D:\Курсовой проект. 4 Курс\Программа\Unit5.pas=D:\Курсовой проект. 4 Курс\Программа\HairColoringInOneTone.pas</Transaction>
+    <Transaction>2017.10.24 18:21:45.724.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit5.dfm=D:\Курсовой проект. 4 Курс\Программа\HairColoringInOneTone.dfm</Transaction>
+    <Transaction>2017.10.24 18:22:13.960.pas,D:\Курсовой проект. 4 Курс\Программа\Unit6.pas=D:\Курсовой проект. 4 Курс\Программа\WithoutAmmoniaHairColoringInOneTone.pas</Transaction>
+    <Transaction>2017.10.24 18:22:13.960.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit6.dfm=D:\Курсовой проект. 4 Курс\Программа\WithoutAmmoniaHairColoringInOneTone.dfm</Transaction>
+    <Transaction>2017.10.24 18:22:32.389.pas,D:\Курсовой проект. 4 Курс\Программа\Unit7.pas=D:\Курсовой проект. 4 Курс\Программа\HotHairExtensions.pas</Transaction>
+    <Transaction>2017.10.24 18:22:32.389.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit7.dfm=D:\Курсовой проект. 4 Курс\Программа\HotHairExtensions.dfm</Transaction>
+    <Transaction>2017.10.24 18:22:49.744.pas,D:\Курсовой проект. 4 Курс\Программа\Unit8.pas=D:\Курсовой проект. 4 Курс\Программа\LowlightHair.pas</Transaction>
+    <Transaction>2017.10.24 18:22:49.744.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit8.dfm=D:\Курсовой проект. 4 Курс\Программа\LowlightHair.dfm</Transaction>
+    <Transaction>2017.10.24 18:23:23.429.pas,D:\Курсовой проект. 4 Курс\Программа\Unit9.pas=D:\Курсовой проект. 4 Курс\Программа\KeratinHairStraightening.pas</Transaction>
+    <Transaction>2017.10.24 18:23:23.429.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit9.dfm=D:\Курсовой проект. 4 Курс\Программа\KeratinHairStraightening.dfm</Transaction>
+    <Transaction>2017.10.26 09:44:43.559.bdsproj,D:\Курсовой проект. 4 Курс\Программа\Project1.bdsproj=D:\Курсовой проект. 4 Курс\Программа\ProgrammBeautyStyle.bdsproj</Transaction>
+    <Transaction>2017.10.30 09:35:41.944.pas,D:\Курсовой проект. 4 Курс\Программа\Unit1.pas=D:\Курсовой проект. 4 Курс\Программа\Developer.pas</Transaction>
+    <Transaction>2017.10.30 09:35:42.025.dfm,D:\Курсовой проект. 4 Курс\Программа\Unit1.dfm=D:\Курсовой проект. 4 Курс\Программа\Developer.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
